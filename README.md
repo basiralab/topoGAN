@@ -53,6 +53,10 @@ Single‐cell Interpretation via Multi‐kernel LeaRning (SIMLR):
 Wang, B., Ramazzotti, D., De Sano, L., Zhu, J., Pierson, E., Batzoglou, S.: SIMLR: a tool for large-scale single-cell analysis by multi-kernel learning. [https://www.biorxiv.org/content/10.1101/052225v3] (2017) [https://github.com/bowang87/SIMLR_PY].
 
 
+# arXiv link
+
+https://arxiv.org/abs/2105.02565
+
 # Citation
 
 If our code is useful for your work please cite our paper:
